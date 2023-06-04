@@ -706,3 +706,8 @@ input[type=number]::-webkit-outer-spin-button {
     justify-content: center;
     border-radius: 40px;
 }
+@media (max-width: 768px){
+    .cont-del{
+        font-size: 1em;
+    }
+}
